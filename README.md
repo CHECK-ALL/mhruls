@@ -1,4 +1,4 @@
-# Основная информация
+# Информация и правила
 
 ## Зоны
 - FFA: яма, замок
@@ -10,5 +10,4 @@
 - Cheating — BAN (Perm)
 
 ### Наше сообщество 
-- <a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</>
-- discord.gg/aforge
+- <a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</> (discord.gg/aforge)
