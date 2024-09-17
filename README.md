@@ -5,10 +5,12 @@
 - DUEL: по бокам от ямы. X+1
 - CHILL: ТВ, таверна, ринг (friendly FFA)
 
-CHEATING — BAN (Perm)
-FFA in Duel/Chill zone — Kick > Banish > Ban
+## НАКАЗАНИЯ
+- CHEATING — BAN (Perm)
+- FFA in Duel/Chill zone — Kick > Banish > Ban
 
-Наше сообщество <a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</>
+### Наше сообщество 
+<a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</>
 discord.gg/aforge
 
 ![ Сеймур ]( https://cdn.discordapp.com/attachments/288528119525146635/8907466 
