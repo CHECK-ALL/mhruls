@@ -10,7 +10,7 @@
 - FFA in Duel/Chill zone — Kick > Banish > Ban
 
 ### Наше сообщество 
-<a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</>
+Adamdntium FORGE — <a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</>
 discord.gg/aforge
 
 ![ Сеймур ]( https://cdn.discordapp.com/attachments/288528119525146635/8907466 
