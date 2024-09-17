@@ -7,7 +7,7 @@
 
 ## Наказания
 - FFA in Duel/Chill zone
-- Cheating — BAN (0)
+- Cheating — BAN (Permanent)
 
 ## Общее
 - F9 — отключение заднего фона
