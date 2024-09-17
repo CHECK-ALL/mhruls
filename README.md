@@ -2,8 +2,8 @@
 
 ## Зоны:
 - FFA: яма, замок
-- Duel по бокам от ямы. X+1
-- Chill: ТВ, таверна, ринг (friendly FFA)
+- DUEL: по бокам от ямы. X+1
+- CHILL: ТВ, таверна, ринг (friendly FFA)
 
 CHEATING — BAN (Perm)
 FFA in Duel/Chill zone — Kick > Banish > Ban
