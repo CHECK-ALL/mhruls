@@ -15,5 +15,5 @@
 - Быстрые телепорты (cc)
 
 ### Наш дискорд про турниры, ивенты и обновления 
-- <a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</>
+- <a id="Adamantium FORGE">https://discord.gg/t3pAAVADku</>
 - (discord.gg/aforge)
