@@ -6,9 +6,9 @@
 - DUEL: по бокам от ямы. X+1
 - CHILL: ТВ, таверна, ринг (friendly FFA)
 
-## НАКАЗАНИЯ
-- CHEATING — BAN (Perm)
+## Наказания
 - FFA in Duel/Chill zone — Kick > Banish > Ban
+- Cheating — BAN (Perm)
 
 ### Наше сообщество 
 Adamantium FORGE — <a id="Adamdntium FORGE">https://discord.gg/t3pAAVADku</>
