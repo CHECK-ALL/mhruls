@@ -2,8 +2,8 @@
 
 ## Зоны
 - FFA: яма и замок
-- DUEL: борта от ямы, tp 1/2
-- CHILL: таверна, бассейн, ринг (friendly FFA)
+- DUEL: запрещно FFA и friendly FFA
+- CHILL: таверна, джакузи, ринг, сцена (friendly FFA)
 
 ## Наказания
 - FFA in Duel/Chill zone
