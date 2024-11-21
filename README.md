@@ -1,12 +1,11 @@
 # ИНФО
 
 ## Зоны
-- FFA: яма и замок
-- DUEL: запрещно FFA и friendly FFA
-- CHILL: таверна, джакузи, ринг, сцена (friendly FFA)
+- FFA: спавн зона
+- DUEL: находится наверху (tp 1). Запрещно FFA и friendly FFA
 
 ## Наказания
-- FFA in Duel/Chill zone
+- FFA in Duel zone
 - Cheating — BAN (Permanent)
 
 ## Общее
