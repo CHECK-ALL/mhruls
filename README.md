@@ -1,16 +1,19 @@
 # ИНФО
 
 ## Зоны
-- FFA: спавн зона
-- DUEL: находится наверху (tp 1). Запрещно FFA и friendly FFA
+- Спавн — FFA зона. 
+- tp dd — Дуэльная зона.
 
-## Наказания
-- FFA in Duel zone
-- Cheating — BAN (Permanent)
+## Наказания / Punishments
+- FFA in Duel Zone
+- Cheating [Permanent BAN]
 
 ## Общее
-- F9 — отключение заднего фона, если пк Potato
+- Проверьте команды в чате: help
+- Есть два вида телепорта: tp dd и просто dd
 
-### Наш дискорд про турниры, ивенты и обновления 
-- <a id="Adamantium FORGE">https://discord.gg/t3pAAVADku</>
-- (discord.gg/aforge)
+### Приобрести VIP-набор: 
+- [Перейти в дискорд сообщества](https://discord.gg/aforge)
+
+### Наш дискорд про турниры, ивенты и обновления:
+- Adamantium FORGE
