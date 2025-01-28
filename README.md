@@ -1,5 +1,4 @@
 # NO FFA & FRIENDLY FFA IN DUEL ZONE (tp 1 / dd)
-## Spawn (сс), castle (zz), joust, and other place and etc — are FFA.
 
 ## **Общие правила**
 - Не быть мудаком.
