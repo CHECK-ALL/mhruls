@@ -1,4 +1,4 @@
-# NO FFA & FRIENDLY FFA IN DUEL ZONE (tp 1 / dd)
+# NO FFA & FRIENDLY FFA IN DUEL ZONE (dd)
 
 ## **Общие правила**
 - Не быть мудаком.
