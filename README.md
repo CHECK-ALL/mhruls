@@ -7,7 +7,7 @@
 - Cheating = BAN.
 
 ### О наказаниях в дуэльной зоне:
-- Reason: bear trap, toolbox, fire&smoke bomb, ffa/mass ffa, cheating, ban evading.
+- Reason: bear trap, toolbox, fire&smoke bomb, ffa/mass ffa.
 - Punishment: Warn up-to-3; ban: 3h > 24h > 3d > 7d > 1m > 2m > perma.
 
 ### **Приобрести VIP-набор:**
