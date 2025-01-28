@@ -9,7 +9,7 @@
 - Reason: bear trap, toolbox, fire&smoke bomb, ffa/mass ffa.
 - Punishment: warn up-to-3; ban: 3h > 24h > 3d > 7d > 1m > 2m > perma.
 
-### **Приобрести VIP-набор:**
+### Приобрести VIP-набор:
 - <a id="Перейти в дискорд сообщества">https://discord.gg/aforge</>
 
 ### Дискорд сервера: турниры, ивенты, обновления:
