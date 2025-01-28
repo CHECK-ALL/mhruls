@@ -1,16 +1,11 @@
-## **Зоны**
-- FFA — Spawn
-- Duels — на tp 1
+# ADAMANTIUM DUELS & FFA
+## NO FFA/FRIENDLY FFA IN DUEL ZONE (DD / TP 1)
+## Spawn (сс), castle, joust place and etc — FFA.
 
-## **Запрещено**
-- FFA in Duel Zone
-- Cheating, Perma-BAN
-
-## **Общее**
-- Проверьте *Новые* команды написав в чат: help
-- Есть два вида телепорта: tp dd и просто dd
-- Дуэльная зона отделена и находится на tp 1
-- Тикрейт 128. На сервере косметический мод! 
+## **Общие правила**
+- FFA в Дуэльной зоне запрещено.
+- Все пространство кроме дуэльной зоны это FFA.
+- Cheating — BAN.
 
 ### **Приобрести VIP-набор:**
 - <a id="Перейти в дискорд сообщества">https://discord.gg/aforge</>
