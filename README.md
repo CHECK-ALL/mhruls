@@ -14,3 +14,6 @@
 
 ### Дискорд сервера: турниры, ивенты, обновления:
 - <a id="Adamantium FORGE">https://discord.gg/aforge</>
+
+### Зоны на карте
+- ![Зоны на карте](https://imgur.com/9MT9zrF.jpg)
