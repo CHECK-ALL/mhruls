@@ -10,7 +10,7 @@
 - Punishment: warn up-to-3; ban: 3h > 24h > 3d > 7d > 1m > 2m > perma.
 
 ### Приобрести VIP-набор / Вступить в дискорд:
-- <a id="Перейти в дискорд сообщества">https://discord.gg/aforge</>
+- <a id="Перейти в дискорд сообщества">https://discord.gg/t3pAAVADku</>
 
 ### Расположение зон на карте
 ![Зоны на карте](https://i.imgur.com/AyE0Mtu.jpeg)
