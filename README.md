@@ -16,4 +16,4 @@
 - <a id="Adamantium FORGE">https://discord.gg/aforge</>
 
 ### Расположение зон на карте
-- ![Зоны на карте](https://i.imgur.com/9MT9zrF.jpeg)
+[Зоны на карте](https://i.imgur.com/9MT9zrF.jpeg)
