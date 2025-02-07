@@ -11,7 +11,6 @@
 
 ### Приобрести VIP-набор:
 - <a id="Перейти в дискорд сообщества">https://discord.gg/aforge</>
-
 ### Дискорд сервера: турниры, ивенты, обновления:
 - <a id="Adamantium FORGE">https://discord.gg/aforge</>
 
