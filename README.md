@@ -13,4 +13,4 @@
 - <a id="Перейти в дискорд сообщества">https://discord.gg/t3pAAVADku</>
 
 ### Расположение зон на карте:
-![](https://i.imgur.com/NA43Zkd.jpeg)
+![](https://i.imgur.com/geh19a3.jpeg)
